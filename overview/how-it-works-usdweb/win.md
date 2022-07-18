@@ -2,6 +2,6 @@
 coverY: 0
 ---
 
-# WIN
+# ☪ WIN
 
 ### You've bought your tickets & now have your chance to win the jackpot! The draw will happen weekly & your winnings will be in $WEB

@@ -1,2 +1,2 @@
-# Awesome Team
+# ♓ Awesome Team
 

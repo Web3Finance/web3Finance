@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# About Web3Finance
+# ♎ About Web3Finance
 
 ## A Decentralized Web3Finance made by qualified professionals with years of experience in the market
 

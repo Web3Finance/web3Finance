@@ -1,4 +1,4 @@
-# NFT WEB3finance
+# ♌ NFT WEB3finance
 
 Join the Smart Lottery Revolution!
 

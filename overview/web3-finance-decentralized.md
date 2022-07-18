@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Web3 Finance Decentralized
+# ⛎ Web3 Finance Decentralized
 
 
 
