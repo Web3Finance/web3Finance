@@ -1,5 +1,6 @@
 ---
 description: AWESOME FEATURES
+cover: ../.gitbook/assets/Gitbook.jpg
 coverY: 0
 ---
 
