@@ -25,3 +25,11 @@
 * [♒ Token Distribution](tokenomic/token-distribution.md)
 * [♐ Road Map](tokenomic/road-map.md)
 * [♓ Awesome Team](tokenomic/awesome-team.md)
+
+## access&#x20;
+
+* [▪ Twitter ](https://twitter.com/Web3Finance1)
+* [▪ Medium](https://medium.com/@Web3Finance)
+* [▪ Reddit](https://www.reddit.com/user/Web3Finance)
+* [▪ Youtube](https://www.youtube.com/channel/UC5iF6gkqJUukJGA7fBH2YEA)
+* [▪ Discord](https://discord.gg/T8dfT44wcD)
