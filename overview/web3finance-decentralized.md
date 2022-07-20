@@ -1,9 +1,9 @@
 ---
 cover: ../.gitbook/assets/Gitbook.jpg
-coverY: 0
+coverY: 49.0272373540856
 ---
 
-# ⛎ Web3 Finance Decentralized
+# ⛎ Web3Finance Decentralized
 
 
 

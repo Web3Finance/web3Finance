@@ -4,16 +4,14 @@
 
 ## Overview
 
-* [⛎ Web3 Finance Decentralized](overview/web3-finance-decentralized.md)
+* [⛎ Web3Finance Decentralized](overview/web3finance-decentralized.md)
 * [♎ About Web3Finance](overview/about-web3finance.md)
 * [⚛ Why it Web3Finance](overview/why-it-web3finance.md)
-* [♍ How it Works  $WEB?](overview/how-it-works-usdweb/README.md)
-  * [♐ PLAY](overview/how-it-works-usdweb/play.md)
-  * [☪ WIN](overview/how-it-works-usdweb/win.md)
-  * [✝ STAKE](overview/how-it-works-usdweb/stake.md)
-  * [✡ EARN](overview/how-it-works-usdweb/earn.md)
-  * [🕎 LOTTERY](overview/how-it-works-usdweb/lottery.md)
-  * [♊ WEB](overview/how-it-works-usdweb/web.md)
+* [♍ AMAZING FEATURES](overview/amazing-features/README.md)
+  * [♐ BEST LOW FEES](overview/amazing-features/best-low-fees.md)
+  * [☪ DECENTRALIZED](overview/amazing-features/decentralized.md)
+  * [✝ STAKING PLATAFORM](overview/amazing-features/staking-plataform.md)
+  * [✡ LOTTERY](overview/amazing-features/lottery.md)
 
 ***
 
@@ -21,7 +19,7 @@
 
 ## Tokenomic
 
-* [🆔 WEB](tokenomic/web.md)
+* [🆔 $WEB](tokenomic/usdweb.md)
 * [♒ Token Distribution](tokenomic/token-distribution.md)
 * [♐ Road Map](tokenomic/road-map.md)
 * [♓ Awesome Team](tokenomic/awesome-team.md)

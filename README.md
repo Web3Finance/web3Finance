@@ -1,13 +1,33 @@
 ---
 cover: .gitbook/assets/Gitbook.jpg
-coverY: 0
+coverY: 177.085020242915
 ---
 
 # ☮ Web3Finance
 
-Lotteries originated in Italy. The rudimentary forms of the Lotterie Italia "draws" were first used by the Roman legions about two thousand years ago. Can you believe it? By the 16th century, merchants in Venice's Rialto district had introduced lottery tickets as a way to earn more for their assets.When commercial games of chance took a rampant course, the Venetian authorities stepped forward and began trying to put the lottery mania in order, create regulations, etc.\
-When the jackpot has not yet come out in a given week, the unredeemed funds are added to the jackpot for the next drawing, getting bigger and bigger until the numbers are properly matched.\
-Given the high stakes and the large prize that these online lotteries produce, it is not uncommon for families and even entire countries to raise their funds in order to buy tickets.There are countless intermediary platforms between players and the institutions that promote the drawings and ticket sales. They are usually in charge of buying tickets for the user so that he does not have to go to a physical store, through authorized sales points.The tickets purchased are stored and scanned, serving as a voucher for the player. These are companies that provide a lottery ticket purchasing service.\
-When the lottery drawing takes place and the numbers are checked, the following procedure is followed: For smaller amounts, the amount is deposited directly into an account
+A new global trend that promises to affect the way people relate to the internet, as well as its impact on modern society. In a world ruled by being connected all the time, the evolution of the World Wide Web is a crucial factor in understanding how technology will transform human relationships. An interesting concept of this new futuristic trend is the relationship of ownership of digital goods. An example of this are the non-fungible tokens (NFTs), which grant ownership over artistic works, music, collectibles, and even game items. With the announcement of the Metaverse by the former Facebook (now called Meta), these virtual items seem to have gained even more prominence: a house can cost millions of dollars in this digital world.\
+We will cover three major concepts:
 
-###
+* Decentralization: independence from banks, government bodies, democratic borders or company technologies&#x20;
+* Privacy: Avoiding exposure of personal data, annoyance with tracking and avoidance of targeted advertising
+* Virtualization: empowering digital worlds and reproducing realistic experiences in a virtual way
+
+Taking this concept into consideration, we will unite in WEB3Finance what is most current...
+
+## **WEB3 + DEFI + LOTTERY = WEB3FINANCE**
+
+#### But why Defi ?
+
+* For the Defi concept is brought about by the set of financial services and products, such as loans, transfers, and payment systems, that run on a blockchain, a kind of decentralized and immutable database. As a rule, these solutions are not controlled by intermediaries such as banks or other financial institutions.
+* The technology's main flagship, therefore, is to create a global financial system that is decentralized, independent, cheap, less bureaucratic, and accessible to all.
+
+#### **B**ut why Loteria?
+
+*   The COVID-19 pandemic positively impacted the market as consumers turned more to the online platform to overcome their financial, social, and psychological crises during the lockouts. One of the research conducted by Lund University in Sweden found that due to restrictions on sporting events due to blockades, consumers increased their interest in online gambling platforms. Also, in response to the closure of many gambling establishments, several operators have gone digital. Many players expanded their online gambling offerings and bingo operators changed their online offerings, which positively impacted the market.
+
+
+
+## WEB3FINANCE
+
+* With all the information above, we will bring to our investors the innovation in the segment, we will conciliate the web3 trend, with the DeFi concept and also lottery, besides surprises involving NFT's during the process
+* Have you ever thought about investing in a project that allows you to staking very high ? with decentralized concept, reaching many more investors ? a lottery composed of various rewards, and compete for jackpot ? and the best rates on the market, enabling huge transaction volumes ! Web3Finance really revolutionized the market, it's a lot of possibilities, will you miss this opportunity ?

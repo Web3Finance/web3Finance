@@ -5,20 +5,16 @@ coverY: 0
 
 # ♒ Token Distribution
 
-
-
 ## Allocation of Tokens
 
 Total token supply - 200,000,000
 
-
-
-* 4% Founders and Team
-* 16% Reserved Funding
-* 3% Advisors
-* 50% Presale
-* 27% Liquidity
+* % Fairlaunch&#x20;
+* % Liquidity&#x20;
+* % Staking Platform&#x20;
+* % Lottery and Jackpot&#x20;
+* % Marketing&#x20;
 
 <!---->
 
-* [x] LOW FEES TRANSACTIONS BUY 3% / SELL 3%
+* [x] BEST LOW FEES 0% IN BUY / 8% IN SELL
