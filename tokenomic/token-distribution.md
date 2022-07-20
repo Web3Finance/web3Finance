@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/Gitbook.jpg
-coverY: 0
+coverY: 45.525291828793776
 ---
 
 # ♒ Token Distribution

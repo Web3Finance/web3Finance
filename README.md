@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/Gitbook.jpg
-coverY: 177.085020242915
+coverY: 48.21342491217569
 ---
 
 # ☮ Web3Finance
@@ -30,4 +30,4 @@ Taking this concept into consideration, we will unite in WEB3Finance what is mos
 ## WEB3FINANCE
 
 * With all the information above, we will bring to our investors the innovation in the segment, we will conciliate the web3 trend, with the DeFi concept and also lottery, besides surprises involving NFT's during the process
-* Have you ever thought about investing in a project that allows you to staking very high ? with decentralized concept, reaching many more investors ? a lottery composed of various rewards, and compete for jackpot ? and the best rates on the market, enabling huge transaction volumes ! Web3Finance really revolutionized the market, it's a lot of possibilities, will you miss this opportunity ? ✅ KYC & Audit ✅DeFi ✅Lottery ✅ Lowest fees in the segment✅ Brief listing on CMC and coing gencko ✅Exclusive NFT with rewards ✅🔥
+*

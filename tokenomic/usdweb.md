@@ -1,7 +1,7 @@
 ---
 description: Statistic and Information
 cover: ../.gitbook/assets/Gitbook.jpg
-coverY: 0
+coverY: 44.824902723735406
 ---
 
 # 🆔 $WEB

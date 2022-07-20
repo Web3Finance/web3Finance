@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/Gitbook.jpg
-coverY: 0
+coverY: 48.326848249027236
 ---
 
 # ♐ Road Map
