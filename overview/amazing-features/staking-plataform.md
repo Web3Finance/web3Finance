@@ -3,6 +3,6 @@ cover: ../../.gitbook/assets/Gitbook.jpg
 coverY: 0
 ---
 
-# ✝ STAKING PLATAFORM
+# ✝ Staking Plataform
 
-Our staking platform delivers an earnings system for our investors
+#### :thumbsup:Our staking platform delivers an earnings system for our investors

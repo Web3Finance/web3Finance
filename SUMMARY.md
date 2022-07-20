@@ -5,16 +5,13 @@
 ## Overview
 
 * [⛎ About Web3Finance](overview/about-web3finance.md)
-* [⚛ Why it Web3Finance](overview/why-it-web3finance.md)
-* [♍ AMAZING FEATURES](overview/amazing-features/README.md)
-  * [♐ BEST LOW FEES](overview/amazing-features/best-low-fees.md)
-  * [☪ DECENTRALIZED](overview/amazing-features/decentralized.md)
-  * [✝ STAKING PLATAFORM](overview/amazing-features/staking-plataform.md)
-  * [✡ LOTTERY](overview/amazing-features/lottery.md)
-
-***
-
-* [♌ NFT WEB3finance](nft-web3finance.md)
+* [♍ Amazing Features](overview/amazing-features/README.md)
+  * [♐ Best Low Fees](overview/amazing-features/best-low-fees.md)
+  * [☪ Decentralized](overview/amazing-features/decentralized.md)
+  * [✝ Staking Plataform](overview/amazing-features/staking-plataform.md)
+* [⚛ Staking](overview/staking.md)
+* [✡ Lottery](overview/lottery.md)
+* [♌ NFT's Collection](overview/nfts-collection.md)
 
 ## Tokenomic
 
