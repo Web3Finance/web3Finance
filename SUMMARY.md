@@ -4,8 +4,7 @@
 
 ## Overview
 
-* [⛎ Web3Finance Decentralized](overview/web3finance-decentralized.md)
-* [♎ About Web3Finance](overview/about-web3finance.md)
+* [⛎ About Web3Finance](overview/about-web3finance.md)
 * [⚛ Why it Web3Finance](overview/why-it-web3finance.md)
 * [♍ AMAZING FEATURES](overview/amazing-features/README.md)
   * [♐ BEST LOW FEES](overview/amazing-features/best-low-fees.md)
