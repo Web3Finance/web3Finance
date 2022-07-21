@@ -9,11 +9,11 @@ Join the Web3Finance Revolution!
 
 #### Our Exclusive NFT Collection Monkey Web3 is made up of 2,000 unique and unique NFTs, each with unique rarities, items and characteristics.
 
-Common: 7% STAKE\
-Rare: 10% STAKE\
-Super rare: 15% STAKE\
-Epic: 17% STAKE\
-Legendary: 20% STAKE
+* [x] Common: 7% REWARD IN TOKEN WEB&#x20;
+* [x] Rare: 10% REWARD IN TOKEN WEB
+* [x] Super Rare: 15% REWARD IN TOKEN WEB
+* [x] Epic: 17% REWARD IN TOKEN WEB
+* [x] Legendary: 20% REWARD IN TOKEN WEB
 
 #### :clap:Access our Dapp:&#x20;
 
