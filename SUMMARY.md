@@ -9,8 +9,8 @@
   * [♐ Best Low Fees](overview/amazing-features/best-low-fees.md)
   * [☪ Decentralized](overview/amazing-features/decentralized.md)
   * [✝ Staking Plataform](overview/amazing-features/staking-plataform.md)
-* [⚛ Staking](overview/staking.md)
-* [⚛ NFT staking](overview/nft-staking.md)
+* [⚛ Staking](overview/staking/README.md)
+  * [⚛ NFT's staking](overview/staking/nfts-staking.md)
 * [✡ Lottery](overview/lottery.md)
 * [♌ NFT's Collection](overview/nfts-collection.md)
 
