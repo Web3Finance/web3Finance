@@ -20,7 +20,8 @@ coverY: 48.326848249027236
 * [ ] Marketing Campaign Launch
 * [ ] Community Social Networks Competition
 * [ ] CoinMarketCap Listing
-* [ ] Coingecko Listing;\
+* [ ] Coingecko Listing;
+* [ ] Start of Mobile App Development\
 
 
 ## September 2022
@@ -29,6 +30,7 @@ coverY: 48.326848249027236
 * [ ] Pools Feature Launch
 * [ ] Lottery Ticket Giveaways
 * [ ] Jackpot Feature Launch
+* [ ] Mobile App Android and IOS Release
 
 ## October 2022
 
