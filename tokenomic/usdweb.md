@@ -25,3 +25,7 @@ Web3 Finance will be launched based on the BSC network. Supporting this standard
 {% embed url="https://github.com/interfinetwork/project-kyc-verification/blob/main/Web3Finance_KYCCertificate_InterFi.pdf" %}
 **KYC**
 {% endembed %}
+
+{% embed url="https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/Web3Finance_0x1B5Aec16548E5d755A72a387Acf2a5B8b724C947.pdf" %}
+**AUDIT**
+{% endembed %}
