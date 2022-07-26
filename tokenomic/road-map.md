@@ -16,6 +16,7 @@ coverY: 48.326848249027236
 
 * [ ] Staking Platform Launch
 * [ ] Lottery Platform Launch
+* [ ] Staking NFT Platform Launch
 * [ ] Multiple Coin Site Listings
 * [ ] Marketing Campaign Launch
 * [ ] Community Social Networks Competition
