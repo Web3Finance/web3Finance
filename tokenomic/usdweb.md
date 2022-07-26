@@ -21,3 +21,7 @@ See how the tokens will be distributed, where they will be allocated, we value t
 **Description**
 
 Web3 Finance will be launched based on the BSC network. Supporting this standard ensures token compatibility with services in blockchain
+
+{% embed url="https://github.com/interfinetwork/project-kyc-verification/blob/main/Web3Finance_KYCCertificate_InterFi.pdf" %}
+**KYC**
+{% endembed %}

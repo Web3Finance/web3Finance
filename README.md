@@ -31,3 +31,9 @@ Taking this concept into consideration, we will unite in WEB3Finance what is mos
 
 * With all the information above, we will bring to our investors the innovation in the segment, we will conciliate the web3 trend, with the DeFi concept and also lottery, besides surprises involving NFT's during the process
 
+{% embed url="https://github.com/interfinetwork/project-kyc-verification/blob/main/Web3Finance_KYCCertificate_InterFi.pdf" %}
+**KYC**
+{% endembed %}
+
+
+
