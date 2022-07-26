@@ -7,7 +7,7 @@ coverY: 44.824902723735406
 
 Join the Web3Finance Revolution!
 
-#### Our Exclusive NFT Collection Monkey Web3 is made up of 2,000 unique and unique NFTs, each with unique rarities, items and characteristics.
+#### Our Exclusive NFT Collection Monkey Web3 is made up of 2,000 unique  NFTs, each with unique rarities, items and characteristics.
 
 * [x] Common: 7% REWARD IN TOKEN WEB&#x20;
 * [x] Rare: 10% REWARD IN TOKEN WEB
