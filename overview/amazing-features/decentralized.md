@@ -8,3 +8,6 @@ coverY: 46.9260700389105
 #### :clap:With the decentralized concept, we were able to reach many more investors
 
 ![](../../.gitbook/assets/2.png)
+
+{% embed url="https://youtu.be/B4cfKqA3MWM" %}
+

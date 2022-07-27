@@ -27,3 +27,4 @@ An important factor to be mentioned is our platform, where our investors will ha
 
 ![](../.gitbook/assets/4.png)
 
+{% embed url="https://youtu.be/wEhlIOYn7zA" %}

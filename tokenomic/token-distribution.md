@@ -18,3 +18,5 @@ Total token supply - 100,000,000 WEB
 <!---->
 
 * [x] BEST LOW FEES 3% IN BUY / 3% IN SELL
+
+{% embed url="https://youtu.be/8oHH6I-SZnU" %}
