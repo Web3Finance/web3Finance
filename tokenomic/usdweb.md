@@ -11,14 +11,15 @@ See how the tokens will be distributed, where they will be allocated, we value t
 ## Token Sale
 
 * Token name: Web3Finance
-* Ticker Symbol: $WEB
+* Ticker Symbol: WEB
 * Acceptable Curencie: BNB
-* Max Supply $WEB :0.000.000 $WEB
-* Maximum $WEBfor Sale:0.000.000 $WEB
-* Soft Cap::0 BNB
-* Min/Max Purchase:Min. 0 BNB / Max. 0 BNB
+* Soft Cap::50 BNB
 
-**Description**
+{% embed url="https://bscscan.com/token/0x1B5Aec16548E5d755A72a387Acf2a5B8b724C947" %}
+**Web3 Finance**
+{% endembed %}
+
+* **Description**
 
 Web3 Finance will be launched based on the BSC network. Supporting this standard ensures token compatibility with services in blockchain
 
@@ -28,4 +29,8 @@ Web3 Finance will be launched based on the BSC network. Supporting this standard
 
 {% embed url="https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/Web3Finance_0x1B5Aec16548E5d755A72a387Acf2a5B8b724C947.pdf" %}
 **AUDIT**
+{% endembed %}
+
+{% embed url="https://www.pinksale.finance/launchpad/0x97b6f84f8dc2f186a5876839b6c60aD1fB5C77F4?chain=BSC" %}
+**FAIRLAUNCH**
 {% endembed %}

@@ -38,6 +38,9 @@ Taking this concept into consideration, we will unite in WEB3Finance what is mos
 {% endembed %}
 
 {% embed url="https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/Web3Finance_0x1B5Aec16548E5d755A72a387Acf2a5B8b724C947.pdf" %}
-**AUDIT**
+**KYC**
 {% endembed %}
 
+{% embed url="https://www.pinksale.finance/launchpad/0x97b6f84f8dc2f186a5876839b6c60aD1fB5C77F4?chain=BSC" %}
+**FAIRLAUNCH**
+{% endembed %}

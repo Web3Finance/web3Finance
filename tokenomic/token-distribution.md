@@ -9,11 +9,12 @@ coverY: 45.525291828793776
 
 Total token supply - 100,000,000 WEB
 
-* % Fairlaunch&#x20;
-* % Liquidity&#x20;
-* % Staking Platform&#x20;
-* % Lottery and Jackpot&#x20;
-* % Marketing&#x20;
+* 19,99% Presale&#x20;
+* 9,68% Liquidity&#x20;
+* 25,33% Burnt&#x20;
+* 35% Plataform Staking, Staking Nft and Lottery (Locked)&#x20;
+* 5% Team (Locked)&#x20;
+* 5% Marketing (Locked)
 
 <!---->
 
