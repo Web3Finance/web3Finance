@@ -12,7 +12,6 @@
 * [⚛ Staking](overview/staking/README.md)
   * [⚛ NFT's staking](overview/staking/nfts-staking.md)
 * [♌ NFT's Collection](overview/nfts-collection.md)
-* [✡ Lottery](overview/lottery.md)
 
 ## Tokenomic
 

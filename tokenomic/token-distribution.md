@@ -12,7 +12,7 @@ Total token supply - 100,000,000 WEB
 * 19,99% Presale&#x20;
 * 9,68% Liquidity&#x20;
 * 25,33% Burnt&#x20;
-* 35% Plataform Staking, Staking Nft and Lottery (Locked)&#x20;
+* 35% Plataform Staking, Staking Nft (Locked)&#x20;
 * 5% Team (Locked)&#x20;
 * 5% Marketing (Locked)
 

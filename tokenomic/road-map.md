@@ -15,7 +15,6 @@ coverY: 48.326848249027236
 ## August 2022
 
 * [ ] Staking Platform Launch
-* [ ] Lottery Platform Launch
 * [ ] Staking NFT Platform Launch
 * [ ] Multiple Coin Site Listings
 * [ ] Marketing Campaign Launch
@@ -29,13 +28,10 @@ coverY: 48.326848249027236
 
 * [ ] NFT Collection Mint
 * [ ] Pools Feature Launch
-* [ ] Lottery Ticket Giveaways
-* [ ] Jackpot Feature Launch
 * [ ] Mobile App Android and IOS Release
 
 ## October 2022
 
-* [ ] Lottery Merchandise launch
 * [ ] CROSS-CHAIN BRIDGING
 *   [ ] Exchange listings
 
