@@ -40,3 +40,7 @@ Taking this concept into consideration, we will unite in WEB3Finance what is mos
 {% embed url="https://www.pinksale.finance/launchpad/0x97b6f84f8dc2f186a5876839b6c60aD1fB5C77F4?chain=BSC" %}
 **FAIRLAUNCH**
 {% endembed %}
+
+{% embed url="https://coinmarketcap.com/currencies/web3-finance/" %}
+**COINMARKETCAP**
+{% endembed %}
