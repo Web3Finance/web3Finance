@@ -9,7 +9,8 @@ coverY: 48.326848249027236
 
 * [x] Website Launch
 * [x] Whitepaper Release
-* [ ] KYC & Audit
+* [x] KYC
+* [x] Audit
 * [x] Social Networks
 
 ## August 2022
@@ -33,7 +34,7 @@ coverY: 48.326848249027236
 ## October 2022
 
 * [ ] CROSS-CHAIN BRIDGING
-*   [ ] Exchange listings
+*   [ ] Exchange listings mexc and bitmart
 
     \
 
@@ -41,5 +42,4 @@ coverY: 48.326848249027236
 ## November 2022
 
 * [ ] Introduce FIAT Payments system
-* [ ] Multiple Blockchain Lottery feature
 * [ ] And Much More Coming Soon!
