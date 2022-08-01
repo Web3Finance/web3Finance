@@ -34,3 +34,7 @@ Web3 Finance will be launched based on the BSC network. Supporting this standard
 {% embed url="https://www.pinksale.finance/launchpad/0x97b6f84f8dc2f186a5876839b6c60aD1fB5C77F4?chain=BSC" %}
 **FAIRLAUNCH**
 {% endembed %}
+
+{% embed url="https://coinmarketcap.com/currencies/web3-finance/" %}
+**COINMARKETCAP**
+{% endembed %}
