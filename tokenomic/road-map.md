@@ -7,7 +7,7 @@ coverY: 48.326848249027236
 
 ## July 2022
 
-* [x] Website Launch
+* [x] &#x20;Website Launch
 * [x] Whitepaper Release
 * [x] KYC
 * [x] Audit
@@ -17,29 +17,29 @@ coverY: 48.326848249027236
 
 * [ ] Staking Platform Launch
 * [ ] Staking NFT Platform Launch
-* [ ] Multiple Coin Site Listings
-* [ ] Marketing Campaign Launch
+* [ ] Lottery Platform Launch
+* [x] Multiple Coin Site Listings
+* [x] Marketing Campaign Launch
 * [ ] Community Social Networks Competition
-* [ ] CoinMarketCap Listing
+* [x] CoinMarketCap Listing
 * [ ] Coingecko Listing;
-* [ ] Start of Mobile App Development\
+* [x] Start of Mobile App Development
 
-
-## September 2022
+## &#x20;September 2022
 
 * [ ] NFT Collection Mint
 * [ ] Pools Feature Launch
+* [ ] Lottery Ticket Giveaways
 * [ ] Mobile App Android and IOS Release
 
 ## October 2022
 
 * [ ] CROSS-CHAIN BRIDGING
-*   [ ] Exchange listings mexc and bitmart
-
-    \
-
+* [ ] Lottery Merchandise launch
+* [ ] Exchange listings mexc and bitmart
 
 ## November 2022
 
 * [ ] Introduce FIAT Payments system
+* [ ] Multiple Blockchain Lottery feature
 * [ ] And Much More Coming Soon!

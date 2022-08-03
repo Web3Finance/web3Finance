@@ -14,14 +14,16 @@ We will cover three major concepts:
 
 Taking this concept into consideration, we will unite in WEB3Finance what is most current...
 
-## **WEB3 + DEFI  = WEB3FINANCE**
+## **WEB3 + DEFI +**LOTTERY  **= WEB3FINANCE**
 
 #### But why Defi ?
 
 * For the Defi concept is brought about by the set of financial services and products, such as loans, transfers, and payment systems, that run on a blockchain, a kind of decentralized and immutable database. As a rule, these solutions are not controlled by intermediaries such as banks or other financial institutions.
 * The technology's main flagship, therefore, is to create a global financial system that is decentralized, independent, cheap, less bureaucratic, and accessible to all.
 
+**But why Lottery?**
 
+* The COVID-19 pandemic positively impacted the market as consumers turned more to the online platform to overcome their financial, social, and psychological crises during the lockouts. One of the research conducted by Lund University in Sweden found that due to restrictions on sporting events due to blockades, consumers increased their interest in online gambling platforms. Also, in response to the closure of many gambling establishments, several operators have gone digital. Many players expanded their online gambling offerings and bingo operators changed their online offerings, which positively impacted the market.
 
 ## WEB3FINANCE
 

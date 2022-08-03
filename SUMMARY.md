@@ -11,6 +11,7 @@
   * [✝ Staking Plataform](overview/amazing-features/staking-plataform.md)
 * [⚛ Staking](overview/staking/README.md)
   * [⚛ NFT's staking](overview/staking/nfts-staking.md)
+* [♒ Lottery](overview/lottery.md)
 * [♌ NFT's Collection](overview/nfts-collection.md)
 
 ## Tokenomic
